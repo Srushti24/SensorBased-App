@@ -3,4 +3,21 @@ B-Number:	B00727713
 Email:		sdesai9@gmail.com
 
 
+This is a  full-stack  project create using JavaScript,HTML,CSS, MongoDB, Express.js and Mustaches.
+
+A person has the ability to get ,delete, update sensors, sensor-types and sensor-data on the front-end.
+
+
+The information about different sensors, sensor-types and sensor-data is stored in the MongoDB database.
+
+
+
+User should enter valid input  eg: a used tries to add a sensor with sensor-id already used by other sensor it shows error.
+
+
+Mustaches where used to render the front-end.
+
+
+
+
 
